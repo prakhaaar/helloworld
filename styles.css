@@ -1,0 +1,44 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+.journey1 {
+    Color: #1F2544;
+    text-align: center;
+}
+
+.journeyhr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 12%;
+}
+
+.journeybody {
+    background-color: #FFF7F1;
+}
+
+.journeyH3 {
+    color: lightcoral;
+}
